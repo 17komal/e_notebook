@@ -1,0 +1,7 @@
+alert 
+
+confirm password check
+proper error handling
+////restrict home page without login
+////mynotes page error after adding new notel
+remove token when browser closed
